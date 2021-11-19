@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convertidor De Monedas</string>
+    <string name="title">Convertidor de Moneda</string>
+    <string name="Moneda_US">USD</string>
+    <string name="Moneda_EUR">EUR</string>
+    <string name="BOTON_CALCULAR">Calcular</string>
+    <string name="TEXT_INPUT" />
+</resources>
